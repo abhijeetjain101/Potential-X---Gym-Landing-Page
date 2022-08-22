@@ -43,6 +43,8 @@ window.addEventListener('scroll', scrollHeader)
 var swiperPopular = new Swiper(".popular__container", {
     loop: true,
     spaceBetween: 24,
+    visibilityFullFit: true,
+    autoResize: false,
     sliderPerView: 'auto',
     grabCursor: true,
 
