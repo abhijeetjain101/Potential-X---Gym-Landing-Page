@@ -391,7 +391,7 @@ img {
 
 .popular__card {
     position: relative;
-    width: 238px;
+    width: 238px !important;
     /* height: 425px; */
     background-color: var(--container-color);
     padding: 2rem 1.5rem 1.5rem;
