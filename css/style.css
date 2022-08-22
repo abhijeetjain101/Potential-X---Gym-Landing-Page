@@ -1039,7 +1039,7 @@ img {
     }
 
     .popular__card {
-        width: 258px !important;
+        width: 258px;
         border-radius: 1.25rem;
         margin-bottom: 5rem;
     }
