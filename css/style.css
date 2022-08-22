@@ -391,7 +391,7 @@ img {
 
 .popular__card {
     position: relative;
-    width: 238px !important;
+    width: 238px;
     /* height: 425px; */
     background-color: var(--container-color);
     padding: 2rem 1.5rem 1.5rem;
@@ -1039,7 +1039,7 @@ img {
     }
 
     .popular__card {
-        width: 258px;
+        width: 258px !important;
         border-radius: 1.25rem;
         margin-bottom: 5rem;
     }
